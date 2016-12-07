@@ -1936,7 +1936,8 @@
             "10": { "name": "keyword.operator.assignment.js" },
             "11": { "name": "storage.type.js" },
             "12": { "name": "variable.other.readwrite.js" },
-            "13": { "name": "storage.type.function.arrow.js" }
+            "13": { "name": "meta.function.parameters.js" },
+            "14": { "name": "storage.type.function.arrow.js" }
           }
         },
         {
@@ -1976,7 +1977,8 @@
             "7": { "name": "keyword.operator.assignment.js" },
             "8": { "name": "storage.type.js" },
             "9": { "name": "variable.other.readwrite.js" },
-            "10": { "name": "storage.type.function.arrow.js" }
+            "10": { "name": "meta.function.parameters.js" },
+            "11": { "name": "storage.type.function.arrow.js" }
           }
         }
       ]
@@ -2012,8 +2014,8 @@
             "2": { "name": "entity.name.function.js" },
             "3": { "name": "keyword.operator.assignment.js" },
             "4": { "name": "storage.type.js" },
-            "5": { "name": "meta.function.parameters.js" },
-            "6": { "name": "variable.other.readwrite.js" },
+            "5": { "name": "variable.other.readwrite.js" },
+            "6": { "name": "meta.function.parameters.js" },
             "7": { "name": "storage.type.function.arrow.js" }
           }
         }
