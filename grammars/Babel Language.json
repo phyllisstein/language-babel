@@ -1889,8 +1889,7 @@
           "captures": {
             "1": { "name": "storage.type.js" },
             "2": { "name": "meta.function.parameters.js" },
-            "3": { "name": "variable.other.readwrite.js" },
-            "4": { "name": "storage.type.function.arrow.js" }
+            "3": { "name": "storage.type.function.arrow.js" }
           }
         },
         { "include": "#literal-arrow-function-simple-assignments" },
