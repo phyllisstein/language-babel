@@ -1888,8 +1888,8 @@
           "match": "\\s*+(\\basync\\b)?\\s*+(((?:[$_\\p{L}\\p{Nl}]|\\\\u\\h{4}|\\\\u{\\h+})(?:[$_\\p{L}\\p{Mn}\\p{Mc}\\p{Nd}\\p{Nl}\\p{Pc}\\x{200C}\\x{200D}]|\\\\u\\h{4}|\\\\u{\\h+})*+))\\s*(=>)",
           "captures": {
             "1": { "name": "storage.type.js" },
-            "2": { "name": "meta.function.parameters.js" },
-            "3": { "name": "storage.type.function.arrow.js" }
+            "3": { "name": "meta.function.parameters.js" },
+            "4": { "name": "storage.type.function.arrow.js" }
           }
         },
         { "include": "#literal-arrow-function-simple-assignments" },
@@ -1935,9 +1935,8 @@
             "9": { "name": "entity.name.function.js" },
             "10": { "name": "keyword.operator.assignment.js" },
             "11": { "name": "storage.type.js" },
-            "12": { "name": "variable.other.readwrite.js" },
-            "13": { "name": "meta.function.parameters.js" },
-            "14": { "name": "storage.type.function.arrow.js" }
+            "12": { "name": "meta.function.parameters.js" },
+            "13": { "name": "storage.type.function.arrow.js" }
           }
         },
         {
@@ -1976,9 +1975,8 @@
             "6": { "name": "entity.name.function.js" },
             "7": { "name": "keyword.operator.assignment.js" },
             "8": { "name": "storage.type.js" },
-            "9": { "name": "variable.other.readwrite.js" },
-            "10": { "name": "meta.function.parameters.js" },
-            "11": { "name": "storage.type.function.arrow.js" }
+            "9": { "name": "meta.function.parameters.js" },
+            "10": { "name": "storage.type.function.arrow.js" }
           }
         }
       ]
@@ -2014,9 +2012,8 @@
             "2": { "name": "entity.name.function.js" },
             "3": { "name": "keyword.operator.assignment.js" },
             "4": { "name": "storage.type.js" },
-            "5": { "name": "variable.other.readwrite.js" },
-            "6": { "name": "meta.function.parameters.js" },
-            "7": { "name": "storage.type.function.arrow.js" }
+            "5": { "name": "meta.function.parameters.js" },
+            "6": { "name": "storage.type.function.arrow.js" }
           }
         }
       ]
