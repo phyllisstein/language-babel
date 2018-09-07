@@ -10,8 +10,8 @@
   },
   ".source.inside-js.css.styled": {
     "editor": {
-      "commentStart": "${'' /* ",
-      "commentEnd": " */}"
+      "commentStart": "${ '' /* ",
+      "commentEnd": " */ }"
     }
   },
   ".entity.quasi.element.js": {
@@ -29,8 +29,8 @@
   },
   ".meta.tag.jsx": {
     "editor": {
-      "commentStart": "{/* ",
-      "commentEnd": " */}",
+      "commentStart": "{ /* ",
+      "commentEnd": " */ }",
       "increaseIndentPattern": "{[^}\"']*$|\\[[^\\]\"']*$|\\([^)\"']*$|<[a-zA-Z][^/]*$|^\\s*>$",
       "decreaseIndentPattern": "^\\s*(\\s*/[*].*[*]/\\s*)*[}\\])]|^\\s*(</|/>)"
     }
@@ -42,8 +42,8 @@
   },
   ".JSXNested": {
     "editor": {
-      "commentStart": "{/* ",
-      "commentEnd": " */}"
+      "commentStart": "{ /* ",
+      "commentEnd": " */ }"
     }
   },
   ".graphql": {
