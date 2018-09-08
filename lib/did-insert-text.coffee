@@ -10,8 +10,8 @@ class DidInsertText
     if ( text is "\n")
       if !@insertNewlineBetweenJSXTags() then return false
       if !@insertNewlineAfterBacktick() then return false
-    else if ( text is "`")
-      if !@insertBackTick() then return false
+    # else if ( text is "`")
+    #   if !@insertBackTick() then return false
     true
 
   # check bracket-matcher package config to determine backtick insertion
